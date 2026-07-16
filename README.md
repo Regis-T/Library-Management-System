@@ -85,10 +85,6 @@ Library-Management-System/
 └── LICENSE
 ```
 
-> Replace `library.py` with your actual Python filename if it's different.
-
----
-
 # ▶️ Getting Started
 
 ## Clone the repository
